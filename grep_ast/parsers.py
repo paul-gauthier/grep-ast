@@ -53,7 +53,7 @@ PARSERS = {
     ".tf": "hcl",
     ".toml": "toml",
     ".tsq": "tsq",
-    ".tsx": "typescript",
+    ".tsx": "tsx",
     ".ts": "typescript",
     ".yaml": "yaml",
 }
@@ -266,7 +266,7 @@ if USING_TSL_PACK:
         ".thrift": "thrift",
         ".toml": "toml",
         ".tsv": "tsv",
-        ".tsx": "typescript",
+        ".tsx": "tsx",
         ".twig": "twig",
         ".ts": "typescript",
         ".typ": "typst",
